@@ -6,3 +6,21 @@
 
 ## Scripts
 ### Little scripts to make a specific function
+
+
+Empiezo a subir los primers scripts, sin un guión ni ruta a seguir
+
+
+
+pasos a seguir
+[] Numeros
+[] Strings
+[] Metodos
+[] Objetos
+[] ....
+
+
+
+
+Un curso de Python del gran moureDev que vamos a ir siguiendo entre otros contenidos multimedia y analogicos:
+https://www.youtube.com/watch?v=Kp4Mvapo5kc
