@@ -13,11 +13,11 @@ Empiezo a subir los primers scripts, sin un guión ni ruta a seguir
 
 
 pasos a seguir
-[] Numeros
-[] Strings
-[] Metodos
-[] Objetos
-[] ....
++ [] Numeros
++ [] Strings
++ [] Metodos
++ [] Objetos
++ [] ....
 
 
 
