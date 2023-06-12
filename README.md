@@ -16,8 +16,8 @@ pasos a seguir
 + [] Numeros
 + [] Strings
 + [] Metodos
++ [] Clases
 + [] Objetos
-+ [] ....
 
 
 
