@@ -41,3 +41,5 @@ Puntos importantes a dominar
 
 Un curso de Python del gran moureDev que vamos a ir siguiendo entre otros contenidos multimedia y analogicos:
 https://www.youtube.com/watch?v=Kp4Mvapo5kc
+
+desde vscode
